@@ -1,4 +1,4 @@
-## This is the repo for HELLO WORLD (CS 161)
+## This is the repo for HELLO WORLD (CS 161) - Klout: Social Media Manager Application
 
 
 ## Available scripts
