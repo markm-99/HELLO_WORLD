@@ -28,11 +28,3 @@ Use '**cd frontend**' to navigate to the frontend folder.
 Install the dependencies with: '**npm install**'.  
 Run the program with: '**npm start**'.  
 
-
-
-
-
-
-
-
-
