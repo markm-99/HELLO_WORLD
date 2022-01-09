@@ -1,5 +1,8 @@
 ## This is the repo for HELLO WORLD (CS 161) - Klout: Social Media Manager Application
-
+Imagine being able to track ALL of your social media accounts in one place. 
+With Klout, it really is that simple.
+Stay up to date with your favorite social media acitivty (posts, likes, content, and so much more!)
+Klout is your personal social media manager, giving you the power to track your digital presence with ease.
 
 ## Available scripts
 
